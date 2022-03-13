@@ -1,0 +1,12 @@
+{
+	"@context": "https://schema.org/",
+	"@type": "CreativeWorkSeries",
+	"name": "title",
+	"aggregateRating": {
+		"@type": "AggregateRating",
+		"ratingValue": 3.7,
+		"worstRating": 0,
+		"bestRating": 5,
+		"ratingCount": 3
+	}
+}

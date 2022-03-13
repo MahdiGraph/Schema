@@ -1,0 +1,22 @@
+{
+	"@context": "https://schema.org",
+	"@type": "CreativeWorkSeries",
+	"mainEntity": [
+		{
+			"@type": "Question",
+			"name": "put your question here",
+			"acceptedAnswer": {
+			  "@type": "Answer",
+			  "text": "put your answer here"
+			}
+		},
+		{
+			"@type": "Question",
+			"name": "put your question here",
+			"acceptedAnswer": {
+			  "@type": "Answer",
+			  "text": "put your answer here"
+			}
+		}
+	]
+}
