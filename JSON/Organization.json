@@ -1,0 +1,25 @@
+{
+	"@context": "http://schema.org/",
+	"@type": "Organization",
+	"legalName": "Example organization",
+	"url": "https://example.com",
+	"contactPoint": {
+	  "@type": "ContactPoint",
+	  "telephone": "+11-0000-111-2525",
+	  "contactType": "customer support"
+	},
+	"logo": "https://example.com/assets/logo.png",
+	"sameAs": [
+	  "https://www.facebook.com/example/",
+	  "https://twitter.com/example",
+	  "https://www.instagram.com/example/"
+	],
+	"address": {
+	  "@type": "PostalAddress",
+	  "streetAddress": "Example organization address",
+	  "addressLocality": "example-city",
+	  "addressRegion": "example-state",
+	  "postalCode": "example-pin-cdde",
+	  "addressCountry": "example-country"
+	}
+}

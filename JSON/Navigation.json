@@ -1,0 +1,34 @@
+{
+  "@context":"http://schema.org",
+  "@type":"ItemList",
+  "itemListElement":[
+	{
+	  "@type": "SiteNavigationElement",
+	  "position": 1,
+	  "name": "Sign Up",
+	  "description": "Create your example profile.",
+	  "url":"https://example.com"
+	},
+	{
+	  "@type": "SiteNavigationElement",
+	  "position": 2,
+	  "name": "About us",
+	  "description": "Read more about example company",
+	  "url":"https://example.com/about"
+	},
+	{
+	  "@type": "SiteNavigationElement",
+	  "position": 3,
+	  "name": "Search artists",
+	  "description": "Search artists",
+	  "url":"https://example.com/search"
+	},
+	{
+	  "@type": "SiteNavigationElement",
+	  "position": 4,
+	  "name": "Contact Us",
+	  "description": "Contact us for any queries",
+	  "url":"https://example.com/contact"
+	}
+  ]
+}
